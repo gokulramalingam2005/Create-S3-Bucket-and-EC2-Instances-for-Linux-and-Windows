@@ -60,7 +60,6 @@ Launch Windows EC2 instance and connect using RDP.
 ### REG NUMBER:212222230039
 ### NAME:Gokul R
  
- Include your Screenshots Here.
 ## RESULT
 The experiment to create an S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
 
